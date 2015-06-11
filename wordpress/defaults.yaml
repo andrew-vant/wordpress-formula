@@ -3,4 +3,4 @@ username: wordpress
 password: wordpress
 owner:    www-data
 frontend: www-data
-path:     /srv/wordpress # No trailing slash
+path:     /usr/share/wordpress # /srv/wordpress # No trailing slash
